@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "StudentPortal.Service.Abstructions/1.0.0": {
+        "dependencies": {
+          "StudentPortal.Models": "1.0.0"
+        },
+        "runtime": {
+          "StudentPortal.Service.Abstructions.dll": {}
+        }
+      },
+      "StudentPortal.Models/1.0.0": {
+        "runtime": {
+          "StudentPortal.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StudentPortal.Service.Abstructions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StudentPortal.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

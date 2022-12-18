@@ -1,0 +1,12 @@
+G:\StudentPortal\StudentPortal.Models\bin\Debug\net6.0\StudentPortal.Models.deps.json
+G:\StudentPortal\StudentPortal.Models\bin\Debug\net6.0\StudentPortal.Models.dll
+G:\StudentPortal\StudentPortal.Models\bin\Debug\net6.0\StudentPortal.Models.pdb
+G:\StudentPortal\StudentPortal.Models\obj\Debug\net6.0\StudentPortal.Models.csproj.AssemblyReference.cache
+G:\StudentPortal\StudentPortal.Models\obj\Debug\net6.0\StudentPortal.Models.GeneratedMSBuildEditorConfig.editorconfig
+G:\StudentPortal\StudentPortal.Models\obj\Debug\net6.0\StudentPortal.Models.AssemblyInfoInputs.cache
+G:\StudentPortal\StudentPortal.Models\obj\Debug\net6.0\StudentPortal.Models.AssemblyInfo.cs
+G:\StudentPortal\StudentPortal.Models\obj\Debug\net6.0\StudentPortal.Models.csproj.CoreCompileInputs.cache
+G:\StudentPortal\StudentPortal.Models\obj\Debug\net6.0\StudentPortal.Models.dll
+G:\StudentPortal\StudentPortal.Models\obj\Debug\net6.0\refint\StudentPortal.Models.dll
+G:\StudentPortal\StudentPortal.Models\obj\Debug\net6.0\StudentPortal.Models.pdb
+G:\StudentPortal\StudentPortal.Models\obj\Debug\net6.0\ref\StudentPortal.Models.dll

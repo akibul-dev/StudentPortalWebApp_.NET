@@ -1,0 +1,90 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "StudentPortal.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/StudentPortal.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/StudentPortal.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StudentPortal.Models/1.0.0": {
+      "type": "project",
+      "path": "../StudentPortal.Models/StudentPortal.Models.csproj",
+      "msbuildProject": "../StudentPortal.Models/StudentPortal.Models.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "StudentPortal.Models >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\ParthoPrime\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "G:\\StudentPortal\\StudentPortal.Repositories.Abstructions\\StudentPortal.Repositories.Abstructions.csproj",
+      "projectName": "StudentPortal.Repositories.Abstructions",
+      "projectPath": "G:\\StudentPortal\\StudentPortal.Repositories.Abstructions\\StudentPortal.Repositories.Abstructions.csproj",
+      "packagesPath": "C:\\Users\\ParthoPrime\\.nuget\\packages\\",
+      "outputPath": "G:\\StudentPortal\\StudentPortal.Repositories.Abstructions\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\ParthoPrime\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "G:\\StudentPortal\\StudentPortal.Models\\StudentPortal.Models.csproj": {
+              "projectPath": "G:\\StudentPortal\\StudentPortal.Models\\StudentPortal.Models.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

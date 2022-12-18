@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Database\StudentPortal.Database.csproj" />
+    <ProjectReference Include="..\StudentPortal.Models\StudentPortal.Models.csproj" />
+    <ProjectReference Include="..\StudentPortal.Repositories.Abstructions\StudentPortal.Repositories.Abstructions.csproj" />
+  </ItemGroup>
+
+</Project>

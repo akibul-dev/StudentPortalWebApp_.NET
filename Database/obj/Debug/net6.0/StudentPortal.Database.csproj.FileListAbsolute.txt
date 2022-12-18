@@ -1,0 +1,17 @@
+G:\StudentPortal\Database\bin\Debug\net6.0\StudentPortal.Database.deps.json
+G:\StudentPortal\Database\bin\Debug\net6.0\StudentPortal.Database.runtimeconfig.json
+G:\StudentPortal\Database\bin\Debug\net6.0\StudentPortal.Database.dll
+G:\StudentPortal\Database\bin\Debug\net6.0\StudentPortal.Database.pdb
+G:\StudentPortal\Database\bin\Debug\net6.0\StudentPortal.Models.dll
+G:\StudentPortal\Database\bin\Debug\net6.0\StudentPortal.Models.pdb
+G:\StudentPortal\Database\obj\Debug\net6.0\StudentPortal.Database.csproj.AssemblyReference.cache
+G:\StudentPortal\Database\obj\Debug\net6.0\StudentPortal.Database.GeneratedMSBuildEditorConfig.editorconfig
+G:\StudentPortal\Database\obj\Debug\net6.0\StudentPortal.Database.AssemblyInfoInputs.cache
+G:\StudentPortal\Database\obj\Debug\net6.0\StudentPortal.Database.AssemblyInfo.cs
+G:\StudentPortal\Database\obj\Debug\net6.0\StudentPortal.Database.csproj.CoreCompileInputs.cache
+G:\StudentPortal\Database\obj\Debug\net6.0\StudentPortal.Database.csproj.CopyComplete
+G:\StudentPortal\Database\obj\Debug\net6.0\StudentPortal.Database.dll
+G:\StudentPortal\Database\obj\Debug\net6.0\refint\StudentPortal.Database.dll
+G:\StudentPortal\Database\obj\Debug\net6.0\StudentPortal.Database.pdb
+G:\StudentPortal\Database\obj\Debug\net6.0\StudentPortal.Database.genruntimeconfig.cache
+G:\StudentPortal\Database\obj\Debug\net6.0\ref\StudentPortal.Database.dll

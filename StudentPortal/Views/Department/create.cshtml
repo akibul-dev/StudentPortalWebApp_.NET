@@ -1,0 +1,16 @@
+﻿@model DepartmentVM
+
+
+<form method="post">
+    <div asp-validation-summary="ModelOnly"></div>
+
+    <p>Department Name<input type="text" Name="DeptName" /> </p>
+    <span asp-validation-for="DeptName"></span>
+
+    <p>
+        Department Code<input type="text" Name="Deptcode" />
+    </p>
+    <span asp-validation-for="Deptcode"></span>
+    <input type="submit" value="Sbmit" />
+
+</form>

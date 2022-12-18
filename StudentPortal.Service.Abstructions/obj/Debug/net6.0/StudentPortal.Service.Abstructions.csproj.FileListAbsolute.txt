@@ -1,0 +1,15 @@
+G:\StudentPortal\StudentPortal.Service.Abstructions\bin\Debug\net6.0\StudentPortal.Service.Abstructions.deps.json
+G:\StudentPortal\StudentPortal.Service.Abstructions\bin\Debug\net6.0\StudentPortal.Service.Abstructions.dll
+G:\StudentPortal\StudentPortal.Service.Abstructions\bin\Debug\net6.0\StudentPortal.Service.Abstructions.pdb
+G:\StudentPortal\StudentPortal.Service.Abstructions\bin\Debug\net6.0\StudentPortal.Models.dll
+G:\StudentPortal\StudentPortal.Service.Abstructions\bin\Debug\net6.0\StudentPortal.Models.pdb
+G:\StudentPortal\StudentPortal.Service.Abstructions\obj\Debug\net6.0\StudentPortal.Service.Abstructions.csproj.AssemblyReference.cache
+G:\StudentPortal\StudentPortal.Service.Abstructions\obj\Debug\net6.0\StudentPortal.Service.Abstructions.GeneratedMSBuildEditorConfig.editorconfig
+G:\StudentPortal\StudentPortal.Service.Abstructions\obj\Debug\net6.0\StudentPortal.Service.Abstructions.AssemblyInfoInputs.cache
+G:\StudentPortal\StudentPortal.Service.Abstructions\obj\Debug\net6.0\StudentPortal.Service.Abstructions.AssemblyInfo.cs
+G:\StudentPortal\StudentPortal.Service.Abstructions\obj\Debug\net6.0\StudentPortal.Service.Abstructions.csproj.CoreCompileInputs.cache
+G:\StudentPortal\StudentPortal.Service.Abstructions\obj\Debug\net6.0\StudentPortal.Service.Abstructions.csproj.CopyComplete
+G:\StudentPortal\StudentPortal.Service.Abstructions\obj\Debug\net6.0\StudentPortal.Service.Abstructions.dll
+G:\StudentPortal\StudentPortal.Service.Abstructions\obj\Debug\net6.0\refint\StudentPortal.Service.Abstructions.dll
+G:\StudentPortal\StudentPortal.Service.Abstructions\obj\Debug\net6.0\StudentPortal.Service.Abstructions.pdb
+G:\StudentPortal\StudentPortal.Service.Abstructions\obj\Debug\net6.0\ref\StudentPortal.Service.Abstructions.dll

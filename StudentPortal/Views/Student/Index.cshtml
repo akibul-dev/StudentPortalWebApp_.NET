@@ -1,0 +1,50 @@
+﻿@using StudentPortal.Models.Student
+
+@model List<StudentListVM>
+
+@if (ViewBag.SuccessMessage != null){
+    @ViewBag.SuccessMessage
+}
+
+
+<p class="text-right">
+    <a asp-action="Create" asp-controller="Student" class="btn btn-success">Add New</a>
+</p>
+
+<table class="table table-bodered table-striped table-hover">
+    <thead>
+        <tr>
+            <th>Serial No.</th>
+            <th>Name</th>
+            <th>Phone Number</th>
+            <th>Address</th>
+            <th>StudentID</th>
+            <th>Actions</th>
+        </tr>
+
+    </thead>
+    @{
+        int slNo = 0;
+    }
+    @foreach(var student in Model){
+
+    
+    <tbody>
+        <tr>
+            <td>@(++slNo)</td>
+            <td>@student.Name</td>
+            <td>@student.PhoneNumber</td>
+            <td>@student.Address</td>
+            <td>@student.StudentID</td>
+            <td><a asp-route-id="@student.ID" asp-action="Edit">Edit</a></td>
+            <td><a asp-route-id="@student.ID" asp-action="Remove">Delete</a></td>
+
+        </tr>
+    </tbody>
+    }
+
+
+
+
+
+</table>

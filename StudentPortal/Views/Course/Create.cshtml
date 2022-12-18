@@ -1,0 +1,37 @@
+﻿@using StudentPortal.Models.Courses
+
+@model CourseVM
+
+<h2>Course Create</h2>
+
+<form method="post">
+    <div asp-validation-summary="ModelOnly"></div>
+
+    <select type="text" class="from-control" >
+        <option value="">Select Faculty</option>
+    </select>
+
+
+
+    <select type="text" class="from-control" asp-items="@Model.Departments" asp-for="DepartmentId">
+        <option value="DepartmentId">Select Department</option>
+    </select>
+    <span asp-validation-for="DepartmentId"></span>
+
+    <p>Course Title :<input type="text" Name="Name" /> </p>
+        <span asp-validation-for="Name"></span>
+
+
+    <p>
+        Code :<input type="text" Name="Code" /> </p>
+        <span asp-validation-for="Code"></span>
+
+    <p>
+        Credit :<input type="text" Name="Credit" /> </p>
+        <span asp-validation-for="Credit"></span>
+
+  
+
+        <input type="submit" value="Sbmit" />
+        
+</form>

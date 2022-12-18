@@ -1,0 +1,17 @@
+G:\StudentPortal\StudentRepository\bin\Debug\net6.0\StudentRepository.deps.json
+G:\StudentPortal\StudentRepository\bin\Debug\net6.0\StudentRepository.dll
+G:\StudentPortal\StudentRepository\bin\Debug\net6.0\StudentRepository.pdb
+G:\StudentPortal\StudentRepository\bin\Debug\net6.0\StudentPortal.Database.dll
+G:\StudentPortal\StudentRepository\bin\Debug\net6.0\StudentPortal.Models.dll
+G:\StudentPortal\StudentRepository\bin\Debug\net6.0\StudentPortal.Database.pdb
+G:\StudentPortal\StudentRepository\bin\Debug\net6.0\StudentPortal.Models.pdb
+G:\StudentPortal\StudentRepository\obj\Debug\net6.0\StudentRepository.csproj.AssemblyReference.cache
+G:\StudentPortal\StudentRepository\obj\Debug\net6.0\StudentRepository.GeneratedMSBuildEditorConfig.editorconfig
+G:\StudentPortal\StudentRepository\obj\Debug\net6.0\StudentRepository.AssemblyInfoInputs.cache
+G:\StudentPortal\StudentRepository\obj\Debug\net6.0\StudentRepository.AssemblyInfo.cs
+G:\StudentPortal\StudentRepository\obj\Debug\net6.0\StudentRepository.csproj.CoreCompileInputs.cache
+G:\StudentPortal\StudentRepository\obj\Debug\net6.0\StudentRepository.csproj.CopyComplete
+G:\StudentPortal\StudentRepository\obj\Debug\net6.0\StudentRepository.dll
+G:\StudentPortal\StudentRepository\obj\Debug\net6.0\refint\StudentRepository.dll
+G:\StudentPortal\StudentRepository\obj\Debug\net6.0\StudentRepository.pdb
+G:\StudentPortal\StudentRepository\obj\Debug\net6.0\ref\StudentRepository.dll

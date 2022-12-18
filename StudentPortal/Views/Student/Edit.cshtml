@@ -1,0 +1,35 @@
+﻿@using StudentPortal.Models.Student
+
+@model StudentEditVM
+
+
+
+
+<form method="post">
+    <input type="hidden" asp-for="ID" />
+
+    <p>Name :<input type="text" asp-for="Name" /> </p>
+    <span asp-validation-for="Name"></span>
+
+    <p>
+        Address<input type="text" asp-for="Address" />
+    </p>
+    <span asp-validation-for="Address"></span>
+
+    <p>
+        Student ID<input type="text" asp-for="StudentID" />
+    </p>
+    <span asp-validation-for="StudentID"></span>
+
+    <p>
+        Phone Number<input type="text" asp-for="PhoneNumber" />
+    </p>
+    <span asp-validation-for="PhoneNumber"></span>
+
+    <input type="submit" value="Sbmit" />
+
+</form>
+
+
+
+
